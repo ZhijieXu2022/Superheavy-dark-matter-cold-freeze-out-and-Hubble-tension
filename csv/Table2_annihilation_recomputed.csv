@@ -1,0 +1,11 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,
+# Updated,11/2026,,,
+#Name,"Table 2 recomputed (sigma = pi r_X^2 V, V = 1e5 m/s; n = 1, 100, 1e5 times the mean; J = m_X c^2 Gamma in erg Mpc^-3 yr^-1)",,,
+#Ref. [1] This paper,https://doi.org/10.1140/epjc/s10052-025-15180-z,"Z. Xu 2025, Eur. Phys. J. C 85, 1451",,
+#Note,freeze-out row: sigma(V=1 km/s) = 4.35e-23; n_inf a_X^-3 = 3.92e+26; n_i a_X^-3 (gamma 1e-9) = 3.92e+35,,,
+,,,,
+,,,,
+row,sigma,n,Gamma,J
+present,4.34859662e-21,1.26440685e-12,6.95220872e-45,1.03273477e+40
+MW_halo,4.34859662e-21,1.26440685e-10,6.95220872e-41,1.03273477e+44
+local,4.34859662e-21,1.26440685e-07,6.95220872e-35,1.03273477e+50

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these data or the manuscript, please cite the article and this archive."
+title: "Superheavy dark matter data and manuscript: cold freeze out and Hubble tension"
+type: dataset
+authors:
+  - family-names: Xu
+    given-names: Zhijie
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+version: "1.0"
+date-released: "2026-11-04"
+doi: "10.5281/zenodo.23934750"
+license: CC-BY-4.0
+keywords: [superheavy dark matter, cold freeze out, Hubble tension, bound state, Boltzmann equation, dark radiation, gravitational waves, axions]
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xu
+      given-names: Zhijie
+  title: "Cold freeze out of superheavy dark matter and Hubble tension"
+  journal: "European Physical Journal C"
+  volume: 85
+  start: "1451"
+  year: 2025
+  doi: "10.1140/epjc/s10052-025-15180-z"
+references:
+  - type: dataset
+    authors: [{family-names: Xu, given-names: Zhijie}]
+    title: "Dark matter flow dataset Part I: halo-based statistics"
+    doi: "10.5281/zenodo.6541231"
+    year: 2022
+  - type: dataset
+    authors: [{family-names: Xu, given-names: Zhijie}]
+    title: "Dark matter flow dataset Part II: correlation-based statistics"
+    doi: "10.5281/zenodo.6757654"
+    year: 2022

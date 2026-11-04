@@ -1,0 +1,10 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,
+# Updated,11/2026,,,,
+#Name,"Table J1 recomputed with Eq. 111 (alpha_r 5.28, beta_r 1.26, eps_u 4.6e-7)",,,,
+#Ref. [1] This paper,https://doi.org/10.1140/epjc/s10052-025-15180-z,"Z. Xu 2025, Eur. Phys. J. C 85, 1451",,,
+,,,,,
+,,,,,
+candidate,r_m,r_kpc,rho,t_s,t_yr
+hot_neutrino,1.49645448e+23,4849.67869,1.4159634e-25,7.10411472e+17,2.25115811e+10
+WIMP,3.75892371e+10,1.21818421e-09,8.93412507e-09,2.82819901e+09,89.6202186
+X,1.40152659e-13,4.54203834e-33,1.54526009e+23,6.80041138e-07,2.15492033e-14
